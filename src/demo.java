@@ -1,4 +1,3 @@
 
-public class demo {
-
+public class demo {   
 }
